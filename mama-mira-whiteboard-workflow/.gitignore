@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+narration.*
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+/assets/mama_mira.png
