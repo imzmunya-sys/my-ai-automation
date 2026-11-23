@@ -1,0 +1,46 @@
+{
+  "project": "Mama Mira Farm — Collards Example",
+  "note": "Illustrative 45-second example only. Replace with approved script and narration timecodes.",
+  "scenes": [
+    {
+      "id": "S01_C01",
+      "start": 0,
+      "end": 8,
+      "label": "Most People Plant Collards Wrong",
+      "visual": "collards",
+      "accent": "#438c4d"
+    },
+    {
+      "id": "S01_C02",
+      "start": 8,
+      "end": 17,
+      "label": "Start with healthy soil",
+      "visual": "soil",
+      "accent": "#7e5437"
+    },
+    {
+      "id": "S01_C03",
+      "start": 17,
+      "end": 27,
+      "label": "Give seedlings room to grow",
+      "visual": "seedling",
+      "accent": "#5a994c"
+    },
+    {
+      "id": "S01_C04",
+      "start": 27,
+      "end": 36,
+      "label": "Water gently at the roots",
+      "visual": "watering",
+      "accent": "#59a5c6"
+    },
+    {
+      "id": "S01_C05",
+      "start": 36,
+      "end": 45,
+      "label": "Watch your collards thrive",
+      "visual": "sun",
+      "accent": "#efb43c"
+    }
+  ]
+}
