@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="280" height="220">
+  <!-- Original generic placeholder artwork, not the missing original hand asset -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 187 C147 177 137 160 122 147 L90 119 Q80 110 87 101 Q94 94 103 101 L132 121 L109 78 Q103 64 114 60 Q126 56 132 69 L151 107 L134 60 Q128 47 140 43 Q152 39 157 55 L174 99 L165 61 Q163 48 176 46 Q188 46 189 59 L199 107 L203 84 Q207 72 219 77 Q229 82 226 94 L217 147 Q212 166 193 187 Z" fill="#e6b68b" stroke="#7c5a40" stroke-width="5"/>
+    <path d="M102 101 L129 125 M133 121 L151 139 M174 99 L184 122" stroke="#bf8f70" stroke-width="4"/>
+    <path d="M83 196 L112 121" stroke="#222" stroke-width="19"/>
+    <path d="M85 191 L110 126" stroke="#3c3c3c" stroke-width="13"/>
+    <path d="M112 120 L117 110" stroke="#dadada" stroke-width="17"/>
+    <path d="M78 209 L85 192" stroke="#222" stroke-width="7"/>
+  </g>
+</svg>
